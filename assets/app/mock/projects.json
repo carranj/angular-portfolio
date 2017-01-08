@@ -1,0 +1,230 @@
+ [{
+     "name": "CrossFit Achieve",
+     "shortname": "crossfitachieve",
+     "featured": true,
+     "imageLocation": "projects/crossfitachieve/crossfitachieve.jpg",
+     "url":"http://josecarranco.com/crossfitachieve/",
+     "class": "public",
+     "ProjectType" : "Website",
+     "Contribution" : "Team",
+     "shortDescription": "CrossFit Achieve is a fully responsive WordPress website.",
+     "description": [
+        {  
+            "p" : "We are excited to help CrossFit Achieve with their marketing goals. They opened up a new location in one of Houston’s prime areas in 2015. With the opening of the new location they reached out to us to help with their marketing efforts. They wanted a clean and functional website with a main focus on mobile users."
+        },{
+            "headline": "Project Type : Website",
+            "p" : "CrossFit Achieve is a custom built website with Bootstrap and WordPress at its core. We enhanced some of the user experience with jQuery effects on the home page. We made the CMS easier to maintain by utilizing Advanced Custom Fields and Custom Post Types."
+        },{
+            "headline": "Contribution : Group",
+            "p" : "This project was built with the help few members of the gym. One of the coaches manages the social media for the organization and one of the members helped with the responsive experience."
+        }
+    ],
+     "skills": [
+         { "name": "skill", "value" : "WordPress" },
+         { "name": "skill", "value" : "PHP" },
+         { "name": "skill", "value" : "Bootstrap" },
+         { "name": "skill", "value" : "jQuery" }
+     ]
+}, {
+     "name": "XDR Products",
+     "shortname": "xdrproducts",
+     "featured": true,
+     "imageLocation": "projects/xdr_products/xdrproducts.jpg",
+     "class": "public",
+     "url": "https://xdrproducts.com/",
+     "shortDescription": "XDR Products is an E-Commerce website that sells tech products. Site was built on WordPress.",
+     "description": [
+        {  
+            "p" : "XDR Products was founded in 2013 and is an E-Commerce tech company based in Richardson, TX. They provide high quality affordable electronic products. Their goals were to switch from their existing E-Commerce solution, accept payments for their products on their website and completely redesign their website."
+        },{
+            "headline": "Project Type : E-Commerce Website",
+            "p" : "XDR Products is an E-Commerce website that is now fully managed by the owners of XDR Products. The website was built with WordPress and I added WooCommerce to the website to make it easier to manage the E-Commerce functionality. Advanced CSS and jQuery functionality was added to the website to build a rotating banner, CSS3 transitions, and advanced mobile responsive functionality."
+        }
+    ],
+     "ProjectType" : "E-Commerce Website",
+     "Contribution" : "Team",
+     "skills": [
+         { "name": "skill", "value" : "WordPress" },
+         { "name": "skill", "value" : "E-Commerce" },
+         { "name": "skill", "value" : "CSS" },
+         { "name": "skill", "value" : "jQuery" }
+     ]
+},{
+     "name": "Coastal Spray",
+     "shortname": "coastalspray",
+     "featured": true,
+     "imageLocation": "projects/coastal_spray/coastal_spray.jpg",
+     "class": "public",
+     "url": "http://www.coastalspray.com/",
+     "ProjectType" : "Website",
+     "Contribution" : "Team",
+     "shortDescription": "Coastal Spray is a fully responsive website WordPress.",
+     "description": [
+        {  
+            "p" : "Coastal Spray is the client of the Houston agency MARION Integrated Marketing. MARION needed a complete website to be developed inside of WordPress in order for the client to edit the website and take full advantage of the content management system."
+        },{
+            "headline": "WordPress Website",
+            "p" : "This fully responsive site is a custom-built theme for WordPress and uses the Bootstrap framework. I devloped various custom items for the website including a custom slide show, career application process and site search feature. Even with heavy uses of images and lots of neat features throughout the website the website loads at an average 1.87 seconds! Best-in-class webpages should load within 3 seconds. The site is also optimized to load faster as visitors come back to the website."
+        },{
+            "headline": "Contribution",
+            "p" : "MARION Integrated Marketing provided the design of the beautiful website and I was in charge of developing the website as the sole developer."
+        }
+    ],
+     "skills": [
+         { "name": "skill", "value" : "WordPress" },
+         { "name": "skill", "value" : "PHP" },
+         { "name": "skill", "value" : "Bootstrap" },
+         { "name": "skill", "value" : "jQuery" }
+     ]
+}, {
+     "name": "RoboFalcons",
+     "shortname": "robofalcons",
+     "featured": false,
+     "imageLocation": "projects/robofalcons/robofalcon-logo.jpg",
+     "class": "public",
+     "ProjectType" : "Design",
+     "Contribution" : "Individual",
+     "shortDescription": "This custom logo was built using Adobe Illustrator and photoshop. It is a vector based image.",
+     "description": [
+        {  
+            "p" : "RoboFalcons is robotics team based in Chicago, IL. They requested for us to to build this custom made logo for various print items including t-shirts. This graphic is in vector format and can be infinitely scaled."
+        },{
+            "headline": "Branding : Logo",
+            "p" : "The logo was used on different collateral such as t-shirts, flyers, stickers, and much more. The robotics team needed help with branding when they qualified for national competition. It received great attention at their competitions and helped them stand out with the amazing robotic projects they had built."
+        }
+    ],
+     "skills": [
+         { "name": "skill", "value" : "Design" }
+     ]
+}, {
+     "name": "Arthritis Foundation",
+     "shortname": "arthritisfoundation",
+     "featured": false,
+     "imageLocation": "projects/arthritis_foundation/houston-bone-bash.jpg",
+     "class": "public",
+     "ProjectType" : "Website",
+     "Contribution" : "Individual",
+     "shortDescription": "Arthritis Foundation projects included branding and E-Commerce solutions",
+     "description": [
+        {  
+            "p" : "The Arthritis Foundation is the leading nonprofit organization dedicated to the prevention, control and cure of arthritis in the United States. They have multiple locations nationwide and produce multiple events every year to help raise funds for their cause."
+        },{
+            "headline": "Project Type : Website",
+            "p" : "The Arthritis Foundation has software and merchant services already in place that must be connected with their nationwide campaigns. I had to comply with the merchant services they already have in place and improved their lead generation."
+        },{
+            "headline": "Project Type : Design",
+            "p" : "The Arthritis Foundation has very specific guidelines on how to use their brand across marketing materials. In staying in line with their branding guidelines, we have been able to produce marketing collateral for multiple events. We have designed multiple items such as brochures, posters, PowerPoint templates, and microsites dedicated to raising funds for their events."
+        }
+    ],
+     "skills": [
+         { "name": "skill", "value" : "HTML" },
+         { "name": "skill", "value" : "CSS" },
+         { "name": "skill", "value" : "E-Commerce" },
+         { "name": "skill", "value" : "Design" }
+     ]
+}, {
+     "name": "Maintenance Solutions",
+     "shortname": "maintenancesolutions",
+     "featured": false,
+     "imageLocation": "projects/maintenance_solutions/maintenance_solutions.jpg",
+     "class": "public",
+     "url": "http://mscoatings.com/",
+     "ProjectType" : "Website",
+     "Contribution" : "Individual",
+     "shortDescription": "Maintenance Solutions is a fully responsive WordPress website.",
+     "description": [
+        {  
+            "p" : "Maintenance Solutions Inc. provides protective and decorative commercial concrete floor solutions in the Houston area. They wanted a fully responsive website and use their website as a tool to increase their leads organically. I designed their site and are still seeing results on their website."
+        },{
+            "headline": "Project Type: Website",
+            "p" : "This website is a custom WordPress theme that is fully responsive and built using the Bootstrap framework. I built a custom gallery and various templates based on the depending on the needs of each page. We also optimized the WordPress site so it would be easy for the client to manage their content using Advanced Custom Fields, Custom Post Types."
+        },{
+            "headline": "Project Type: Website Design",
+            "p" : "Using a mobile-first concept, I designed a fully responsive website and placed a high priority for mobile visitors. The wireframes created were designed to optimize the user experience and use the website as a tool for lead generation."
+        }
+    ],
+     "skills": [
+         { "name": "skill", "value" : "HTML" },
+         { "name": "skill", "value" : "Design" },
+         { "name": "skill", "value" : "WordPress" },
+         { "name": "skill", "value" : "Bootstrap" }
+     ]
+}, {
+     "name": "Double Barrel RSS",
+     "shortname": "doublebarrelrss",
+     "featured": false,
+     "imageLocation": "projects/double_barrel_rss/double_barrel_rss.jpg",
+     "class": "public",
+     "url": "http://www.doublebarrelrss.com/",
+     "ProjectType" : "Website",
+     "Contribution" : "Team",
+     "shortDescription": "Double Barrel RSS is a fully responsive website WordPress.",
+     "description": [
+        {  
+            "p" : "Double Barrel RSS is the client of the Houston agency MARION Integrated Marketing. MARION needed a complete website to be developed inside of WordPress in order for the client to edit the website and take full advantage of the content management system."
+        },{
+            "headline": "Project Type: Website",
+            "p" : "This fully responsive site is a custom-built theme for WordPress and uses the Bootstrap framework. I devloped various custom items for the website including a custom video that autoplays on the homepage, custom product interface for websites, and custom search feature. Even with the use of video and other neat features throughout the website the website loads at an average 1.39 seconds! Best-in-class webpages should load within 3 seconds. The site is also optimized to load faster as visitors come back to the website."
+        }
+    ],
+     "skills": [
+         { "name": "skill", "value" : "AJAX" },
+         { "name": "skill", "value" : "jQuery" },
+         { "name": "skill", "value" : "WordPress" },
+         { "name": "skill", "value" : "Bootstrap" }
+     ]
+}, {
+     "name": "Best Buy and Microsoft Banner Ads",
+     "shortname": "bbyandmsftbannerads",
+     "featured": false,
+     "imageLocation": "projects/29139_HP_BBY_MSFT_Banner_Ads/thumbnail.jpg",
+     "class": "private",
+     "url": "http://portal.adcetera.com/banner-ads/projects/29139_HP_BBY_MSFT_Banner_Ads/index.html",
+     "ProjectType" : "Banner Ad",
+     "Contribution" : "Team",
+     "shortDescription": "Best Buy and Microsoft Banner Ads is a campaign with a group of banner ads.",
+     "description": [
+        {  
+            "p" : "HP is the client of the Houston agency Adcetera. The HP and Microsoft Banner Ads campaign was a set of banner ads that were placed on selected regions on the Best Buy website. The set of ads were a mixture standard sizes and expandable ads."
+        },{
+            "headline": "Project Type : Banner Ads",
+            "p" : "The banner ads were built using Google Web Designer. Custom JavaScript and CSS3 was used to animate the various objects. All ads had to meet file size requirements and time limits."
+        },{
+            "headline": "Contribution : Team",
+            "p" : "The banner ads included Adcetera's team of design, strategy, copywriting, and account executives. I worked as the developer on this campaign from the interactive department."
+        }
+    ],
+     "skills": [
+         { "name": "skill", "value" : "Google Web Designer" },
+         { "name": "skill", "value" : "Vanilla JS" },
+         { "name": "skill", "value" : "HTML" },
+         { "name": "skill", "value" : "CSS" }
+     ]
+},{
+     "name": "JACK IN THE BOX Survey",
+     "shortname": "jackintheboxsurvey",
+     "featured": false,
+     "imageLocation": "projects/jack_in_the_box/jack_in_the_box.jpg",
+     "class": "public",
+     "ProjectType" : "Website",
+     "Contribution" : "Team",
+     "shortDescription": "Solution that made it simple to collect data and be able to login to see their data.",
+     "description": [
+        {  
+            "p" : "JACK IN THE BOX is an American fast-food restauration with over 2,200 locations nationwide. Their regional office wanted insight on their guest experience. We found a solution for them that made it really simple to collect data and be able to login to see the data. We also built the program so you can filter out the franchises to see specific data for either one franchise or multiple franchises."
+        },{
+            "headline": "Project Type : Website",
+            "p" : "This campaign though simple in design, had two very complex components. We built a secure method for collecting data on the front-end and a robust application that was able to filter various locations and present data in a very visual way. We also built the system so it would be easy for administrators to manage their content and to assign roles to different franchise owners."
+        },{
+            "headline": "Project Type : Design",
+            "p" : "We designed the microsite as a single-page website and built custom svg artwork to increase the experience for users entering data. We anticipated for 95% of the audience to visit the microsite from their mobile device. We made the mobile-first design fully responsive and fully compliant with their branding guidelines."
+        }
+    ],
+     "skills": [
+         { "name": "skill", "value" : "WordPress" },
+         { "name": "skill", "value" : "PHP" },
+         { "name": "skill", "value" : "jQuery" },
+         { "name": "skill", "value" : "Bootstrap" }
+     ]
+}
+]
